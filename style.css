@@ -20,6 +20,8 @@ nav{
     display: flex;
     flex-direction: row;
     gap: 5.0rem;
+
+    margin: auto;
     
 }
 
