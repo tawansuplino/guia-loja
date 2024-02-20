@@ -17,15 +17,14 @@ header {
 nav {
     display: flex;
     flex-direction: row;
-    gap: 2.5rem;
+    
     background-color: blueviolet;
 }
 
 ul {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
+    
     list-style: none;
     text-decoration: none;
 }
