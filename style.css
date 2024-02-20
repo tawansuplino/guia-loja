@@ -15,9 +15,9 @@ header{
     background: aqua;
 }
 nav{
-    border: 2.0px solid greenyellow;
+    
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     gap: 5.0rem;
     
 }
