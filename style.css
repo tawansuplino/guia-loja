@@ -17,7 +17,7 @@ header{
 nav{
     display: flex;
     flex-direction: row;
-    gap: 2.0rem;
+    gap: 5.0rem;
     
 }
 
