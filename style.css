@@ -19,7 +19,7 @@ nav{
     
     display: flex;
     flex-direction: row;
-    gap: 5.0rem;
+    gap: 1.5rem;
 
     margin: auto;
     
@@ -38,7 +38,7 @@ ul{
 li{
     display: flex;
     flex-direction: row;
-    gap: 10.0rem;
+    /* gap: 10.0rem; */
     /* justify-content: space-around; */
 }
 
