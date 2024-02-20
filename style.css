@@ -1,4 +1,4 @@
-* :root{
+* ,:root{
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
@@ -7,7 +7,7 @@
 header{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     
     width: 100%;
@@ -17,8 +17,12 @@ header{
 nav{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     align-items: center;
+    
+    gap: 5rem;
+
+    
 }
 
 ul{
@@ -26,9 +30,9 @@ ul{
     display: flex;
     flex-direction: row;
     gap: 1.5rem;
-    justify-content: space-between;
-    align-items: center;
+    
     list-style: none;
+    text-decoration: none;
 }
 
 a{
