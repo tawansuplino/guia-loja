@@ -20,7 +20,7 @@ nav{
     
 }
 
-ul li{
+ul{
     
     display: flex;
     flex-direction: row;
@@ -28,6 +28,12 @@ ul li{
     
     list-style: none;
     text-decoration: none;
+}
+
+li{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 a{
