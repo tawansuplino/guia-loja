@@ -10,7 +10,7 @@ nav {
     align-items: center;
 }
 
-ul li{
+ul {
     display: flex;
     flex-direction: row;
     gap: 1.5rem;
