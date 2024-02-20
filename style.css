@@ -3,9 +3,15 @@ header{
     display: flex;
     flex-direction: row;
 }
-nav ul {
+nav {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+}
+
+ul li{
+    display: flex;
+    flex-direction: row;
+    gap: 1.5rem;
 }
