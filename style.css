@@ -8,6 +8,7 @@ header{
     display: flex;
     flex-direction: row;
     justify-content: space-around; 
+    align-items: center;
     /* gap: 2.5rem; */
     
     width: 100%;
