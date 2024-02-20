@@ -15,6 +15,7 @@ header{
     background: aqua;
 }
 nav{
+    border: 2px solid greenyellow;
     display: flex;
     flex-direction: row;
     gap: 5.0rem;
