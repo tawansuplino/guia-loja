@@ -17,6 +17,7 @@ header{
 nav{
     display: flex;
     flex-direction: row;
+    gap: 2.0rem;
     
 }
 
@@ -33,7 +34,7 @@ ul{
 li{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 a{
