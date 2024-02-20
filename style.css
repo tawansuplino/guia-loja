@@ -21,7 +21,7 @@ nav{
     align-items: center;
 }
 
-ul{
+ul li{
     
     display: flex;
     flex-direction: row;
