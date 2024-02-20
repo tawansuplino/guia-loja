@@ -34,7 +34,7 @@ li {
     display: flex;
     flex-direction: row;
     gap: 10.0rem;
-    /* justify-content: space-around; */
+    justify-content: space-around;
 }
 
 a {
